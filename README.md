@@ -1,5 +1,5 @@
 # ETCCDS202: Data Structures Lab
-**Student Name:** Shourya Pratap  
+**Student Name:** Akshay Kumar 
 **Program:** B.Tech CSE  
 **Section:** A   
 **Course Code:** ETCCDS202  
